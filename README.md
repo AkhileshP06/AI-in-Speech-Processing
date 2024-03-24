@@ -1,5 +1,7 @@
 
 **AI in Speech Processing**
+
+
 This repository is dedicated to storing the lab work completed as part of the course curriculum. Here are various projects, exercises, and assignments related to the application of artificial intelligence techniques in speech processing.
 
 Contents
